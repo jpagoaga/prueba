@@ -1,0 +1,137 @@
+body{
+	font-family: Segoe UI;
+	font-size: 14px;
+	color: #666;
+}
+header{
+	background-color: #202020;
+}
+footer{
+	background-color: #fff;
+	padding: 25px 0;
+	border-top: 1px solid #f6f6f6;
+	color: #333;
+	text-align: center;
+}
+footer img {
+    margin-bottom: 25px;
+    margin-top: 10px;
+}
+
+
+
+#slides h3{
+	font-size: 150px;
+}
+
+#slides h3 span {
+	font-size: 100px;
+	display: block;
+	text-transform: uppercase;
+	color: #FF9306;
+}
+
+.titulo{
+	color: #000;
+	font-size: 50px;
+	text-align: center;
+	font-style: italic;
+	font-weight: bold;
+	margin-bottom: 20px;	
+}
+
+.subtitulo{
+	color: #464646;
+	font-size: 30px;
+	text-align: center;
+	font-style: italic;	
+}
+
+#welcome{
+	background-image: url("../img/bg_pic2.jpg");
+	background-size:auto;
+	background-position:right;
+	background-repeat: no-repeat;
+	padding: 5% 0;
+}
+
+#welcome p{
+	padding: 5% 0;
+}
+
+#more{
+	background-image: url("../img/bg_pic1.jpg");
+	background-size:cover;
+	background-position:center;
+	background-repeat: no-repeat;
+	padding: 10% 0;
+}
+
+#more h2{
+	color: #fff;
+	font-size: 50px;
+	text-align: center;
+	font-style: italic;
+	font-weight: 600;
+	margin-bottom: 20px;
+}
+
+#more p{
+	color: #fff;
+	font-weight: 100;
+	font-size: 30px;
+	text-align: center;
+	font-style: italic;	
+}
+
+#sorrows{
+	background-image:url("../img/bg_pic3.jpg");
+	background-size:cover;
+	background-position:center;
+	background-repeat: no-repeat;
+	padding: 10% 0;
+}
+
+#sorrows h2{
+	color: #fff;
+	font-size: 50px;
+	text-align: center;
+	font-style: italic;
+	font-weight: 600;
+	margin-bottom: 20px;
+}
+
+#sorrows p{
+	color: #fff;
+	font-weight: 100;
+	font-size: 30px;
+	text-align: center;
+	font-style: italic;	
+}
+
+.btn-naranja{
+	background-color: #FF9306;
+	color:#FFF;
+	font-weight: bold;
+	font-style: normal;
+	font-size: 20px;
+	text-transform: uppercase;
+	padding: 15px 50px;
+	border-radius: 0px;
+	letter-spacing: 2px;
+	border: 0;
+}
+.btn-dorado:hover{
+	background-color: #fff;
+	color: #af9f66;
+}
+
+.icons{
+	font-size: 60px;
+	color: #D8D8D8;
+}
+
+.icons:hover{
+	font-size: 60px;
+	color: #B7B7B7;
+}
